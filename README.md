@@ -40,9 +40,9 @@ To automate the process for future analyses, I'll do the cleaning with Python + 
 
  *Python code used to split the City column*
 
-| Dataset                       | File |
-| ----------------------------- | ---- |
-| Quality of Life Index (clean) | csv  |
+| Dataset                       | File                                                         |
+| ----------------------------- | ------------------------------------------------------------ |
+| Quality of Life Index (clean) | [csv](https://raw.githubusercontent.com/FranciscoGalan/QualityOfLife_vs_Cost_Cities/master/Quality_of_Life_Index_clean.csv) |
 
 
 
