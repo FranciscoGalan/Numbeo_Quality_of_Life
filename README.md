@@ -36,7 +36,7 @@ I noticed that, in the Quality of Life dataset, the *City* column includes for c
 
 To automate the process for future analyses, I'll do the cleaning with Python + Jupyter notebooks. I used ChatGPT to generate the code, although it required multiple prompt to correct errors and get what I wanted:
 
-![](C:\Users\franpc\Documents\Programming_Projects\QualityOfLife_vs_Cost_Cities\Code_for_cleaning_snippet.JPG)
+![](https://raw.githubusercontent.com/FranciscoGalan/QualityOfLife_vs_Cost_Cities/master/Code_for_cleaning_snippet.JPG)
 
  *Python code used to split the City column*
 
