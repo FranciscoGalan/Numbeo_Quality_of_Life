@@ -36,7 +36,7 @@ I notices that, in the Quality of Life dataset, the *City* column includes for c
 
 To automate the process for future analyses, I'll do the cleaning in Python.
 
-
+ 
 
 
 
