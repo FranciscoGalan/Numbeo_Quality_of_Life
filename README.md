@@ -34,7 +34,7 @@ However, I noticed that the Cost of Living Index includes additional fields (as 
 
 I noticed that, in the Quality of Life dataset, the *City* column includes for city and country. For US cities, it also includes the state. I'll split the field to have city and country in different columns. Also, note that some cities have text in parenthesis: e.g., "The Hague (Den Haag)".
 
-To automate the process for future analyses, I'll do the cleaning with Python + Jupyter notebooks. I used ChatGPT to generate the code, although it required multiple prompt to correct errors and get what I wanted:
+To automate the process for future analyses, I'll do the cleaning with Python + Jupyter notebooks. I used ChatGPT to generate the code, although it required multiple prompts to correct errors and get what I wanted:
 
 ![](https://raw.githubusercontent.com/FranciscoGalan/QualityOfLife_vs_Cost_Cities/master/Code_for_cleaning_snippet.JPG)
 
