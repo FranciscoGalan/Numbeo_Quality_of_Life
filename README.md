@@ -8,7 +8,7 @@ Therefore, I'll be comparing the quality of life and the cost of living for citi
 
 ## Data
 
-I'll be using data from the website [Numbeo](https://www.numbeo.com/cost-of-living/). They have two indexes:
+I'll be using data from the website [Numbeo](https://www.numbeo.com/cost-of-living/). They have two indexes with the metrics I need:
 
 * [Quality of Life Index 2024](https://www.numbeo.com/quality-of-life/rankings.jsp), by city
 * [Cost of Living Index](https://www.numbeo.com/cost-of-living/rankings.jsp), by city
@@ -36,7 +36,7 @@ I noticed that, in the Quality of Life dataset, the *City* column includes for c
 
 To automate the process for future analyses, I'll do the cleaning with Python + Jupyter notebooks. I used ChatGPT to generate the code, although it required multiple prompt to correct errors and get what I wanted:
 
-![](C:\Users\franpc\Documents\Programming_Projects\Numbeo_Quality_of_Life\Code_for_cleaning_snippet.JPG)
+![](C:\Users\franpc\Documents\Programming_Projects\QualityOfLife_vs_Cost_Cities\Code_for_cleaning_snippet.JPG)
 
  *Python code used to split the City column*
 
